@@ -1,0 +1,29 @@
+{
+  "name" : "generator-buster",
+  "version" : "0.0.1",
+  "keywords": [
+    "yeoman-generator",
+    "yeoman",
+    "generator",
+    "test",
+    "runner"
+  ],
+  "homepage": "https://github.com/abiee/generator-buster",
+  "bugs": "https://github.com/abiee/generator-buster/issues",
+  "author": "Abiee Alejandro Echamea Márquez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abiee/generator-buster.git"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.10.2"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ]
+}

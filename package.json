@@ -15,8 +15,14 @@
     "type": "git",
     "url": "https://github.com/abiee/generator-buster.git"
   },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
   "dependencies": {
     "yeoman-generator": "~0.10.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.8.1"
   },
   "engines": {
     "node": ">=0.8.0"

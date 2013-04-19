@@ -13,7 +13,7 @@ You can install this generator by two ways, clonning repo and linking or install
 
 Or to install by npm run:
 
-    $ npm install generator-buster
+    $ npm install -g generator-buster
 
 Node configuration
 ------------------
